@@ -2,7 +2,7 @@
 
 vuepress-tools
 
-步骤一：git clone git@mobike.io:zhangyunchen/vuepress-devkit.git
+步骤一：git clone git@github.com:ZGuangJu/vuepress-tools.git
 
 步骤二：运行 npm install
 
